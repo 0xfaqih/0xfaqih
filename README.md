@@ -1,5 +1,5 @@
 # Halo semua! 
-Perkenalkan nama saya **Abdul Faqih**.\
+Perkenalkan nama saya **Abdul Faqih**.
  
 <p align="left">
 <a href="https://github.com/0xfaqih">
